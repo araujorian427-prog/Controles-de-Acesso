@@ -1,0 +1,14 @@
+{
+    "widget": {
+        "name": "Controle de Acessos",
+        "description": "Esse widget visa controlar os acessos do usuário a tela de configurações.",
+        "short_description": "Controle de Acessos."
+    },
+    "settings": {
+        "email": "Informe os emails que irão ter acesso.",
+        "widgets": "Informe as telas de Widget"
+    },
+    "advanced": {
+        "title": "Controle de Acessos"
+    }
+}
